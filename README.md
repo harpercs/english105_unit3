@@ -7,4 +7,7 @@ It contains 3 python notebooks:
 2. The instruction to subset the data
 3. The end result after subsetting the data
 
-This data set is to provide information on the amount of uninsured children in the southern region of the United States. 
+This dataset is to provide information on the amount of uninsured children in the southern region of the United States. 
+
+This dataset can be used to analyze tthe amount of uninsured children in the southern region of the United States.
+It also can be used to produce visuals of the data to help Americans to understand this issue. 
