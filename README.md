@@ -9,7 +9,7 @@ It contains 3 python notebooks:
 
 This dataset is to provide information on the amount of uninsured children in the southern region of the United States. 
 
-This dataset can be used to analyze tthe amount of uninsured children in the southern region of the United States.
+This dataset can be used to analyze the amount of uninsured children in the southern region of the United States.
 It also can be used to produce visuals of the data to help Americans to understand this issue. 
 
 ![ncmap](Uninsured_Children_by_County_in_North_Carolina_in_2014.png)
