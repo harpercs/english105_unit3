@@ -12,4 +12,8 @@ This dataset is to provide information on the amount of uninsured children in th
 This dataset can be used to analyze the amount of uninsured children in the southern region of the United States.
 It also can be used to produce visuals of the data to help Americans to understand this issue. 
 
+## Visualization 
+
+This heatmap visualizes the percentage of uninsured children in North Carolina by County.
+
 ![ncmap](Uninsured_Children_by_County_in_North_Carolina_in_2014.png)
