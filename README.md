@@ -19,4 +19,4 @@ Acknowledgments: Professor Gotzler for the dataset and for the project
 
 This heatmap visualizes the percentage of uninsured children in North Carolina by county.
 
-![ncmap](Uninsured_Children_by_County_in_North_Carolina_in_2014.png)
+![ncmap](Uninsured_Children_Visualization.png)
