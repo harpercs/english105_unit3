@@ -9,8 +9,7 @@ It contains 3 python notebooks:
 
 This dataset is to provide information on the amount of uninsured children in North Carolina by county. 
 
-This dataset can be used to analyze the amount of uninsured children in the North Carolina by county. 
-It also can be used to produce visuals of the data to help North Carolinians to understand this issue. 
+This dataset can be used to analyze the amount of uninsured children in the North Carolina by county and can be used to produce visuals of the data to help North Carolinians to understand this issue. 
 
 ## Visualization 
 
