@@ -1,4 +1,4 @@
-# english105_unit3
+# Uninsured Children in North Carolina 
 
 This is a repository containing information from a County Health dataset that has been subseted to specifically look at data contained in the "Uninsured children" column in North Carolina by county.
 
