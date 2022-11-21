@@ -11,6 +11,8 @@ This dataset is to provide information on the amount of uninsured children in No
 
 This dataset can be used to analyze the amount of uninsured children in the North Carolina by county and can be used to produce visuals of the data to help North Carolinians to understand this issue. 
 
+This can help government officials to address the amount of uninsured children and find a solution. 
+
 ## Visualization 
 
 This heatmap visualizes the percentage of uninsured children in North Carolina by county.
