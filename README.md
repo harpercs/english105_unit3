@@ -11,9 +11,9 @@ It contains 5 files:
 
 This dataset is to provide information on the amount of uninsured children in North Carolina by county in 2014.
 
-This dataset can be used to analyze the amount of uninsured children in the North Carolina by county and can be used to produce visuals of the data to help North Carolinians to understand this issue. 
+This dataset can be used to analyze the amount of uninsured children in the North Carolina by county and can be used to produce visuals of the data to help North Carolinians to understand this issue. I think that it can be used as a wake up call to the amount of children that are uninsured. This could mean the difference between a child going to the doctor or remaining sick or injured which could result in them having long term problems. It provides that data to show government officials which counties need extra help to provide for the future of our state. 
 
-This can help government officials to address the amount of uninsured children and find a solution. 
+I chose this dataset because I think that children should be able to have access to health care and that insurance is a way that allows people to be able to access healthcare at a price they can afford. I wanted to know which counties across the state had higher percentages of children that are uninsured. 
 
 
 ## Visualization 
@@ -22,5 +22,5 @@ This heatmap visualizes the percentage of uninsured children in North Carolina b
 
 ![ncmap](Uninsured_Children_Visualization.png)
 
-#### Acknowledgments 
-Thank you Professort Gotztler for providing the [County Health Dataset](https://github.com/harpercs/english105_unit3/blob/main/CountyHealthData_2014-2015.csv) and for providing this project where I learned a lot about coding in Python and how to make a repository. 
+## Acknowledgments 
+Thank you Professor Gotztler for providing the [County Health Dataset](https://github.com/harpercs/english105_unit3/blob/main/CountyHealthData_2014-2015.csv) and for providing this project where I learned a lot about coding in Python and how to make a repository. 
